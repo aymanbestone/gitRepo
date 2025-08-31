@@ -3,3 +3,4 @@ all is good
 text
 a
 z
+a
