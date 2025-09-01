@@ -1,6 +1,5 @@
 send data to user
 all is good
-text
+texts
 a
 z
-a
